@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ll-space.github.io/</id>
     <title>LL-Space</title>
-    <updated>2020-01-01T11:47:38.076Z</updated>
+    <updated>2020-01-01T12:15:21.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ll-space.github.io/"/>
     <link rel="self" href="https://ll-space.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://ll-space.github.io/images/avatar.png</logo>
     <icon>https://ll-space.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LL-Space</rights>
+    <entry>
+        <title type="html"><![CDATA[新年第一天，开心]]></title>
+        <id>https://ll-space.github.io/post/xin-nian-di-yi-tian-kai-xin</id>
+        <link href="https://ll-space.github.io/post/xin-nian-di-yi-tian-kai-xin">
+        </link>
+        <updated>2020-01-01T12:03:42.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年快乐！]]></title>
         <id>https://ll-space.github.io/post/xin-nian-kuai-le</id>
